@@ -81,6 +81,7 @@ fabric.properties
 .idea/
 
 # Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-249601023
+temp_auto_push.bat
 
 *.iml
 modules.xml
@@ -158,14 +159,10 @@ tags
 [._]*.un~
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
 
 # End of https://www.gitignore.io/api/linux,visualstudiocode,jetbrains+all,sublimetext,vim
+temp_interactive_push.bat
